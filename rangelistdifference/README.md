@@ -14,7 +14,7 @@ First clone the repository
 ```git clone <repo_url>```
 
 ## Run using docker
-```docker built -t . rangelistdiff:v1```  
+```docker build -t . rangelistdiff:v1```  
 ```docker run rangelistdiff:v1 -a <space_separated_values> -b <space_separated_values>```
 ## Run python script
 ```python range_diff.py -a <space_separated_values> -b <space_separated_values>```
