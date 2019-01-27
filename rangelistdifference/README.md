@@ -10,7 +10,7 @@ A program to subtract two lists containing pairwise range of values.
 * the list of range values after difference of second list from first list
 
 # Run Instructions
-First Clone the repository 
+First clone the repository 
 ```git clone <repo_url>```
 
 ## Run using docker
