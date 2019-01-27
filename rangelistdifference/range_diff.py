@@ -59,7 +59,7 @@ class RangeListDifference:
             e, s, o, i = include
             e, s, o, o = include
             e, e, o, i = include    
-    '''
+        '''
         #print(self.list_all)
         time_ranges = []
         for i in range(0, len(self.list_all) - 1, 2):
